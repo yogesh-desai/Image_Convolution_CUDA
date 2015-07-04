@@ -175,7 +175,7 @@ int main() {
         		}
 
     //printf("\n Output from Host:\n");
-#if 0
+#if 0  //comment this to run the portion of code
     for(int i=0;i<imageWidth*imageHeight;i++)
     		{
     		if(i>0 && (i%imageWidth==0))
